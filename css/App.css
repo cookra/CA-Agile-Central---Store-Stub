@@ -1,0 +1,10 @@
+.app {
+     /* Add app styles here */
+}
+.test {
+    background: #ff6600;
+}
+.fixTabMargins {
+    margin:0;
+    padding:0;
+}
